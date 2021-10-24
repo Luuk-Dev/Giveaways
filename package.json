@@ -1,0 +1,50 @@
+{
+  "name": "giveaways",
+  "version": "1.2.0",
+  "description": "Create easily giveaways with your Discord.js bot by using this framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "giveaways",
+    "framework",
+    "giveaway",
+    "winner",
+    "bot",
+    "discord",
+    "discord.js",
+    "custom",
+    "reward",
+    "prize"
+  ],
+  "author": "Extive Development team",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0",
+    "ms": "^2.1.3",
+    "path": "^0.12.7",
+    "valuesaver": "^1.6.0"
+  },
+  "devDependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "displayName": "Giveaways",
+  "icon": "https://www.extive.eu/assets/img/extive.png",
+  "contributors": [
+    {
+      "name": "Luuk",
+      "url": "https://github.com/Luuk-Dev"
+    }
+  ],
+  "homepage": "https://github.com/Extive-eu/Giveaways#readme",
+  "repository": {
+    "url": "https://github.com/Extive-eu/Giveaways"
+  },
+  "publisher": "Luuk - Extive Marketing Manager",
+  "readme": "README.md"
+}
