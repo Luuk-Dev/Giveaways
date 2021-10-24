@@ -1,10 +1,7 @@
 # Giveaways
-[![discordBadge](https://img.shields.io/badge/Chat-Click%20here-7289d9?style=for-the-badge&logo=discord)](https://www.extive.eu/discord)
 [![downloadsBadge](https://img.shields.io/npm/dt/giveaways?style=for-the-badge)](https://npmjs.com/package/giveaways)
 [![versionBadge](https://img.shields.io/npm/v/giveaways?style=for-the-badge)](https://npmjs.com/package/giveaways)
-[![documentationBadge](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://github.com/Extive-eu/Giveaways#readme)
-
-![Extive Logo](https://www.extive.eu/assets/img/extive.png)
+[![documentationBadge](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://github.com/Luuk-Dev/Giveaways#readme)
 
 Giveaways is a NodeJS framework for your Discord.js bot to easily create a giveaway command.
 
