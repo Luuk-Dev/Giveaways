@@ -1,3 +1,6 @@
+# Deprecated
+This framework isn't being maintained anymore and can only be used for Discord.js version 13.x
+
 # Giveaways
 [![downloadsBadge](https://img.shields.io/npm/dt/giveaways?style=for-the-badge)](https://npmjs.com/package/giveaways)
 [![versionBadge](https://img.shields.io/npm/v/giveaways?style=for-the-badge)](https://npmjs.com/package/giveaways)
